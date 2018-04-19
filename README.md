@@ -34,3 +34,5 @@ The code can be shared via Google Drive, sent via Skype.
 I plan to push it to Github.
 
 Thanks!
+Salah EL KHATTAB
+elkhatts@gmail.com
