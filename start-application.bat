@@ -1,0 +1,1 @@
+java -jar test-near-earth-objects-0.0.1-SNAPSHOT.jar
